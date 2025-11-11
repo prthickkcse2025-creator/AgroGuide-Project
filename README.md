@@ -1,4 +1,6 @@
 # AgroGuide-Project
+Link: https://agroguide-prototype-19mi.bolt.host
+
 AgroGuide is a digital platform designed to empower farmers through technology by connecting them with essential agricultural resources, services, and communities
 **Farm Share**Facilitates farm equipment sharing between farmers to reduce cost and improve productivity.
   **Rent System**: Displays rental rate (₹/day) and allows booking directly from the app
